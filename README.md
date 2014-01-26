@@ -15,7 +15,7 @@ You will need to give in the username/passowrd of the Bot's gtalk id (that you n
 
 Usage syntax:
 
-- say; <what ever you want it to say>
-- wiki; <whatever you want it to find out on wiki and speak out from the summary there>
+- say; what ever you want it to say
+- wiki; whatever you want it to find out on wiki and speak out from the summary there
 
 
